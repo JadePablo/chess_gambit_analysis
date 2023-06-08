@@ -13,3 +13,14 @@ Analysis done with pandas, matplotlib, seaborn.
 
 Findings:
 
+- Never stop playing the Vienna.
+
+![](https://github.com/JadePablo/chess_gambit_analysis/blob/main/the%20goodies/graph%201.PNG)
+
+![](https://github.com/JadePablo/chess_gambit_analysis/blob/main/the%20goodies/graph%202.PNG)
+
+![](https://github.com/JadePablo/chess_gambit_analysis/blob/main/the%20goodies/graph%203.PNG)
+
+![](https://github.com/JadePablo/chess_gambit_analysis/blob/main/the%20goodies/graph%204.PNG)
+
+![](https://github.com/JadePablo/chess_gambit_analysis/blob/main/the%20goodies/graph%205.PNG)
